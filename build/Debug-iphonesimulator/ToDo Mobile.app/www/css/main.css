@@ -1,0 +1,17 @@
+#loginError{
+	color: red;
+}
+#email-error{
+	color: #fff;
+	background-color: red;
+	border-radius: 5px;
+	z-index: 999;
+	text-align: center;
+}
+#password-error{
+	color: #fff;
+	background-color: red;
+	border-radius: 5px;
+	z-index: 999;
+	text-align: center;
+}

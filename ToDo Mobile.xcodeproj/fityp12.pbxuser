@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ToDo Mobile */ = {
+		activeExec = 0;
+		executables = (
+			857B946E1534479D007A54A6 /* ToDo Mobile */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 857B946E1534479D007A54A6 /* ToDo Mobile */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ToDo Mobile */;
+		codeSenseManager = 857B94C8153447A2007A54A6 /* Code sense */;
+		executables = (
+			857B946E1534479D007A54A6 /* ToDo Mobile */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 355750347;
+			PBXWorkspaceStateSaveDate = 355750347;
+		};
+		perUserProjectItems = {
+			85A9B22F153451D300155303 /* PBXBookmark */ = 85A9B22F153451D300155303 /* PBXBookmark */;
+			85A9B23F1534539500155303 /* PBXBookmark */ = 85A9B23F1534539500155303 /* PBXBookmark */;
+			85B89C1115344E6400DF6DBA /* PBXTextBookmark */ = 85B89C1115344E6400DF6DBA /* PBXTextBookmark */;
+			85B89C1315344E6400DF6DBA /* PlistBookmark */ = 85B89C1315344E6400DF6DBA /* PlistBookmark */;
+			85B89C1415344E6400DF6DBA /* PBXBookmark */ = 85B89C1415344E6400DF6DBA /* PBXBookmark */;
+			85B89C1515344E6400DF6DBA /* PBXBookmark */ = 85B89C1515344E6400DF6DBA /* PBXBookmark */;
+			85B89C1615344E6400DF6DBA /* PBXBookmark */ = 85B89C1615344E6400DF6DBA /* PBXBookmark */;
+		};
+		sourceControlManager = 857B94C7153447A2007A54A6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	857B946E1534479D007A54A6 /* ToDo Mobile */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ToDo Mobile";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	857B94C7153447A2007A54A6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	857B94C8153447A2007A54A6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	85A9B22F153451D300155303 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05341370CCF300D202BF /* Default.png */;
+	};
+	85A9B23F1534539500155303 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05341370CCF300D202BF /* Default.png */;
+	};
+	85B89C1115344E6400DF6DBA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 85B89C1215344E6400DF6DBA /* index.html */;
+		name = "index.html: 18";
+		rLen = 0;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 1280;
+		vrLoc = 0;
+	};
+	85B89C1215344E6400DF6DBA /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = "/Users/fityp12/Desktop/ToDo Mobile/www/index.html";
+		sourceTree = "<absolute>";
+	};
+	85B89C1315344E6400DF6DBA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ToDo_Mobile-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fityp12/Desktop/ToDo Mobile/ToDo_Mobile-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	85B89C1415344E6400DF6DBA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D052E1370CCF300D202BF /* icon-72.png */;
+	};
+	85B89C1515344E6400DF6DBA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D052F1370CCF300D202BF /* icon.png */;
+	};
+	85B89C1615344E6400DF6DBA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05321370CCF300D202BF /* Default-Landscape.png */;
+	};
+}

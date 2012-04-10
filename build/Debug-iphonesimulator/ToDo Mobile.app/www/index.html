@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title></title>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/jquery.mobile-1.0rc1.min.css" />
+	<link rel="stylesheet" href="css/main.css" />
+
+	<script type="text/javascript" charset="utf-8" src="phonegap-1.3.0.js"></script>
+    
+  </head>
+  <body onload="onBodyLoad()">
+	<div data-role="page">
+		<div data-role="header" data-position="inline">
+			<a href="about.html" data-icon="star" data-transition="flip" class="ui-btn-right">About</a>
+			<h1 class="left">ToDo Mobile</h1>
+		</div>
+		<div data-role="content">
+			<div id="jquery"></div>
+			<p> 
+				Log-in to access your projects and to-do's
+				Don't have an account?? Click <a href="register.html" data-transition="pop">here</a>
+				to create one.
+			</p>
+			<hr>
+			<div id="loginError"></div>
+			<div data-role="fieldcontain">
+				<label for="username" id="usrlabel">Username</label>
+				<input type="text" name="username" id="username" value="" placeholder="Username"/><br>
+				<label for="password" id="passlabel">Password</label>
+				<input type="password" name="password" id="password" value="" placeholder="Password"/><br/>
+				<button id="login">Login</button>
+			</div>
+		</div>
+		</div>
+
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.mobile-1.0rc1.min.js"></script>
+	<script src="js/main.js"></script>
+  </body>
+</html>

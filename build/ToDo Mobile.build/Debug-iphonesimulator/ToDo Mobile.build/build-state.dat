@@ -1,0 +1,619 @@
+TToDo Mobile
+v7
+r0
+t355750469.326882
+cCheck dependencies
+cProcessInfoPlistFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Info.plist" ToDo_Mobile-Info.plist
+cPhaseScriptExecution "Touch www folder" "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Script-304B58A110DAC018002A0835.sh"
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/www" www
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/VERSION" /Users/fityp12/Documents/PhoneGapLib/VERSION
+cCopyPlistFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/PhoneGap.plist" PhoneGap.plist
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/PhoneGapBuildSettings.xcconfig" PhoneGapBuildSettings.xcconfig
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/icon-72.png" Resources/icons/icon-72.png
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/icon.png" Resources/icons/icon.png
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/icon@2x.png" Resources/icons/icon@2x.png
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default-Landscape.png" Resources/splash/Default-Landscape.png
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default-Portrait.png" Resources/splash/Default-Portrait.png
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default.png" Resources/splash/Default.png
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default@2x.png" Resources/splash/Default@2x.png
+cCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Capture.bundle" Resources/Capture.bundle
+cCopyStringsFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/en.lproj/Localizable.strings" Resources/en.lproj/Localizable.strings
+cCopyStringsFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/es.lproj/Localizable.strings" Resources/es.lproj/Localizable.strings
+cProcessPCH /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo_Mobile-Prefix-giptejukywxxinahonqvlnsdgmmu/ToDo_Mobile-Prefix.pch.gch ToDo_Mobile-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/main.o" "/Users/fityp12/Desktop/ToDo Mobile/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/AppDelegate.o" "/Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile" normal i386
+cGenerateDSYMFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app.dSYM" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile"
+cTouch "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBEC300000000001340C0
+t1298054851
+s1261760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004D54D3440000000000078770
+t1297404740
+s493424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004D5C9BB80000000000168430
+t1297914808
+s1475632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D54CF5D0000000000205F50
+t1297403741
+s2121552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004D5C9AE3000000000006A720
+t1297914595
+s436000
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004D54CFB80000000000001B27
+t1297403832
+s6951
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004D54CFB90000000000001777
+t1297403833
+s6007
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004D54CFBA0000000000000E3B
+t1297403834
+s3643
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSError.h
+c000000004D54CFBA0000000000001DE5
+t1297403834
+s7653
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h
+c000000004D54CFBC0000000000002E87
+t1297403836
+s11911
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004D54CFBD0000000000006506
+t1297403837
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5EBF5300000000001C31B0
+t1298054995
+s1847728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/AvailabilityMacros.h
+c000000004D4F7A2B0000000000007A5E
+t1297054251
+s31326
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/TargetConditionals.h
+c000000004D4F7A2B00000000000031E9
+t1297054251
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/limits.h
+c000000004D4F6E9900000000000016DF
+t1297051289
+s5855
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stddef.h
+c000000004D4F6E990000000000001404
+t1297051289
+s5124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdint.h
+c000000004D4F6E9900000000000018EF
+t1297051289
+s6383
+
+N/Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.h
+c000000004F84101D000000000000029D
+t1334054941
+s669
+i<UIKit/UIKit.h>
+i<PhoneGap/PhoneGapDelegate.h>
+i"PhoneGapDelegate.h"
+
+N/Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.m
+c000000004F84101D0000000000000D79
+t1334054941
+s3449
+i"AppDelegate.h"
+i<PhoneGap/PhoneGapViewController.h>
+i"PhoneGapViewController.h"
+
+N/Users/fityp12/Desktop/ToDo Mobile/PhoneGap.plist
+c000000004F84101D00000000000005AA
+t1334054941
+s1450
+
+N/Users/fityp12/Desktop/ToDo Mobile/PhoneGapBuildSettings.xcconfig
+c000000004F84101D00000000000000C5
+t1334054941
+s197
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/Capture.bundle
+c000000004F84101D0000000000000242
+t1334054941
+s578
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/en.lproj/Localizable.strings
+c000000004F84101D0000000000000248
+t1334054941
+s584
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/es.lproj/Localizable.strings
+c000000004F84101D0000000000000254
+t1334054941
+s596
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon-72.png
+c000000004F84101D00000000000013B9
+t1334054941
+s5049
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon.png
+c000000004F8412130000000000001DA4
+t1334055443
+s7588
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon@2x.png
+c000000004F84101D00000000000014DC
+t1334054941
+s5340
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default-Landscape.png
+c000000004F84101D0000000000007340
+t1334054941
+s29504
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default-Portrait.png
+c000000004F84101D0000000000005E91
+t1334054941
+s24209
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default.png
+c000000004F841495000000000001AADC
+t1334056085
+s109276
+
+N/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default@2x.png
+c000000004F84101D0000000000007F9A
+t1334054941
+s32666
+
+N/Users/fityp12/Desktop/ToDo Mobile/ToDo_Mobile-Prefix.pch
+c000000004F84101D00000000000000BF
+t1334054941
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app
+t1334056649
+s646
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app.dSYM
+t1334054984
+s102
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Capture.bundle
+t1334054983
+s578
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Default-Landscape.png
+t1334054983
+s29504
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Default-Portrait.png
+t1334054983
+s24209
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Default.png
+t1334056649
+s109276
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Default@2x.png
+t1334054983
+s32666
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Info.plist
+t1334055502
+s956
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/PhoneGap.plist
+t1334054983
+s869
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/PhoneGapBuildSettings.xcconfig
+t1334054983
+s197
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/PkgInfo
+t1334055502
+s8
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile
+t1334054984
+s581356
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/VERSION
+t1334054983
+s13
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/en.lproj/Localizable.strings
+t1334054983
+s142
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/es.lproj/Localizable.strings
+t1334054983
+s308
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/icon-72.png
+t1334054983
+s5049
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/icon.png
+t1334055502
+s7588
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/icon@2x.png
+t1334054983
+s5340
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/www
+t1334055016
+s306
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/AppDelegate.o
+t1334054984
+s45852
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/ToDo Mobile.LinkFileList
+c000000004F8410470000000000000103
+t1334054983
+s259
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/main.o
+t1334054984
+s3260
+
+N/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Script-304B58A110DAC018002A0835.sh
+c000000004F8410470000000000000027
+t1334054983
+s39
+
+N/Users/fityp12/Desktop/ToDo Mobile/main.m
+c000000004F84101D000000000000017F
+t1334054941
+s383
+i<UIKit/UIKit.h>
+
+N/Users/fityp12/Desktop/ToDo Mobile/www
+c000000004F8410670000000000000154
+t1334055015
+s340
+
+N/Users/fityp12/Documents/PhoneGapLib/Classes/JSON/JSONKit.h
+c000000004EEE4DF50000000000002DBE
+t1324240373
+s11710
+i<stddef.h>
+i<stdint.h>
+i<limits.h>
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSError.h>
+i<Foundation/NSObjCRuntime.h>
+i<Foundation/NSString.h>
+
+N/Users/fityp12/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004EEE4DF50000000000000818
+t1324240373
+s2072
+i<UIKit/UIKit.h>
+i"JSONKit.h"
+
+N/Users/fityp12/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004EEE4DF500000000000001D8
+t1324240373
+s472
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/fityp12/Documents/PhoneGapLib/VERSION
+c000000004EEE4E0D000000000000000D
+t1324240397
+s13
+
+N/Users/fityp12/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGap.a
+c000000004F60F9380000000000196E18
+t1331755320
+s1666584
+
+N/var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo_Mobile-Prefix-giptejukywxxinahonqvlnsdgmmu/ToDo_Mobile-Prefix.pch.gch
+t1334054984
+s12262832
+
+NToDo_Mobile-Info.plist
+c000000004F84116800000000000005C2
+t1334055272
+s1474
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355750469#355750469#0(0"0(0#1#0"8602342624#0"0#
+
+CCompileC "build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/AppDelegate.o" "/Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s355747784.120220
+e355747784.221795
+r1
+xCompileC
+xbuild/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/AppDelegate.o
+x/Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@64"Compile /Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.m355747784#355747784#0(0"0(0#0#56"/Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.m8605295648#2108"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-generated-files.hmap" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-own-target-headers.hmap" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-all-target-headers.hmap" -iquote "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-project-headers.hmap" "-F/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator" -iquote/Users/fityp12/Documents/PhoneGapLib/Classes/JSON -iquote/Users/fityp12/Documents/PhoneGapLib/Classes "-I/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/include" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources/i386" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources" -include /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo_Mobile-Prefix-giptejukywxxinahonqvlnsdgmmu/ToDo_Mobile-Prefix.pch -c "/Users/fityp12/Desktop/ToDo Mobile/Classes/AppDelegate.m" -o "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC "build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/main.o" "/Users/fityp12/Desktop/ToDo Mobile/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s355747784.118546
+e355747784.175959
+r1
+xCompileC
+xbuild/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/main.o
+x/Users/fityp12/Desktop/ToDo Mobile/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@49"Compile /Users/fityp12/Desktop/ToDo Mobile/main.m355747784#355747784#0(0"0(0#0#41"/Users/fityp12/Desktop/ToDo Mobile/main.m8606163040#2086"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-generated-files.hmap" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-own-target-headers.hmap" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-all-target-headers.hmap" -iquote "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-project-headers.hmap" "-F/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator" -iquote/Users/fityp12/Documents/PhoneGapLib/Classes/JSON -iquote/Users/fityp12/Documents/PhoneGapLib/Classes "-I/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/include" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources/i386" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources" -include /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo_Mobile-Prefix-giptejukywxxinahonqvlnsdgmmu/ToDo_Mobile-Prefix.pch -c "/Users/fityp12/Desktop/ToDo Mobile/main.m" -o "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/main.o"0#
+
+CCopyPlistFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/PhoneGap.plist" PhoneGap.plist
+s355747783.151440
+e355747783.470270
+r1
+xCopyPlistFile
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/PhoneGap.plist
+xPhoneGap.plist
+lSLF07#2@19"Copy PhoneGap.plist355747783#355747783#0(0"0(0#0#49"/Users/fityp12/Desktop/ToDo Mobile/PhoneGap.plist8607575872#389"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 PhoneGap.plist --outdir "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCopyStringsFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/en.lproj/Localizable.strings" Resources/en.lproj/Localizable.strings
+s355747783.287365
+e355747783.480778
+r1
+xCopyStringsFile
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/en.lproj/Localizable.strings
+xResources/en.lproj/Localizable.strings
+lSLF07#2@43"Copy Resources/en.lproj/Localizable.strings355747783#355747783#0(0"0(0#0#73"/Users/fityp12/Desktop/ToDo Mobile/Resources/en.lproj/Localizable.strings8605144704#495"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/en.lproj/Localizable.strings --outdir "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/en.lproj"0#
+
+CCopyStringsFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/es.lproj/Localizable.strings" Resources/es.lproj/Localizable.strings
+s355747783.470464
+e355747783.520585
+r1
+xCopyStringsFile
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/es.lproj/Localizable.strings
+xResources/es.lproj/Localizable.strings
+lSLF07#2@43"Copy Resources/es.lproj/Localizable.strings355747783#355747783#0(0"0(0#0#73"/Users/fityp12/Desktop/ToDo Mobile/Resources/es.lproj/Localizable.strings8604695520#495"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/es.lproj/Localizable.strings --outdir "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/es.lproj"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Capture.bundle" Resources/Capture.bundle
+s355747783.285211
+e355747783.325609
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/Capture.bundle
+xResources/Capture.bundle
+lSLF07#2@29"Copy Resources/Capture.bundle355747783#355747783#0(0"0(0#0#59"/Users/fityp12/Desktop/ToDo Mobile/Resources/Capture.bundle8605610080#480"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/Capture.bundle" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default-Landscape.png" Resources/splash/Default-Landscape.png
+s355747783.274937
+e355747783.290493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/Default-Landscape.png
+xResources/splash/Default-Landscape.png
+lSLF07#2@43"Copy Resources/splash/Default-Landscape.png355747783#355747783#0(0"0(0#0#73"/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default-Landscape.png8607562912#494"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default-Landscape.png" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default-Portrait.png" Resources/splash/Default-Portrait.png
+s355747783.277258
+e355747783.297130
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/Default-Portrait.png
+xResources/splash/Default-Portrait.png
+lSLF07#2@42"Copy Resources/splash/Default-Portrait.png355747783#355747783#0(0"0(0#0#72"/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default-Portrait.png8606515680#493"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default-Portrait.png" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default.png" Resources/splash/Default.png
+s355749449.082113
+e355749449.102074
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/Default.png
+xResources/splash/Default.png
+lSLF07#2@33"Copy Resources/splash/Default.png355749449#355749449#0(0"0(0#0#63"/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default.png8609502432#484"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default.png" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/Default@2x.png" Resources/splash/Default@2x.png
+s355747783.280878
+e355747783.302373
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/Default@2x.png
+xResources/splash/Default@2x.png
+lSLF07#2@36"Copy Resources/splash/Default@2x.png355747783#355747783#0(0"0(0#0#66"/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default@2x.png8605721760#487"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/splash/Default@2x.png" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/PhoneGapBuildSettings.xcconfig" PhoneGapBuildSettings.xcconfig
+s355747783.269144
+e355747783.287065
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/PhoneGapBuildSettings.xcconfig
+xPhoneGapBuildSettings.xcconfig
+lSLF07#2@35"Copy PhoneGapBuildSettings.xcconfig355747783#355747783#0(0"0(0#0#65"/Users/fityp12/Desktop/ToDo Mobile/PhoneGapBuildSettings.xcconfig8609731424#486"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/PhoneGapBuildSettings.xcconfig" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/VERSION" /Users/fityp12/Documents/PhoneGapLib/VERSION
+s355747783.150843
+e355747783.157287
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/VERSION
+x/Users/fityp12/Documents/PhoneGapLib/VERSION
+lSLF07#2@49"Copy /Users/fityp12/Documents/PhoneGapLib/VERSION355747783#355747783#0(0"0(0#0#44"/Users/fityp12/Documents/PhoneGapLib/VERSION8607756288#463"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fityp12/Documents/PhoneGapLib/VERSION "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/icon-72.png" Resources/icons/icon-72.png
+s355747783.269884
+e355747783.287188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/icon-72.png
+xResources/icons/icon-72.png
+lSLF07#2@32"Copy Resources/icons/icon-72.png355747783#355747783#0(0"0(0#0#62"/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon-72.png8609156256#483"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon-72.png" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/icon.png" Resources/icons/icon.png
+s355748302.922056
+e355748302.950177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/icon.png
+xResources/icons/icon.png
+lSLF07#2@29"Copy Resources/icons/icon.png355748302#355748302#0(0"0(0#0#59"/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon.png8609203136#480"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon.png" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/icon@2x.png" Resources/icons/icon@2x.png
+s355747783.272379
+e355747783.287291
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/icon@2x.png
+xResources/icons/icon@2x.png
+lSLF07#2@32"Copy Resources/icons/icon@2x.png355747783#355747783#0(0"0(0#0#62"/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon@2x.png8607690368#483"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/Resources/icons/icon@2x.png" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ToDo Mobile.app/www" www
+s355747816.979785
+e355747816.990265
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToDo Mobile.app/www
+xwww
+lSLF07#2@8"Copy www355747816#355747816#0(0"0(0#0#38"/Users/fityp12/Desktop/ToDo Mobile/www8615256992#459"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/fityp12/Desktop/ToDo Mobile/www" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
+CGenerateDSYMFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app.dSYM" "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile"
+s355747784.324892
+e355747784.393490
+r1
+xGenerateDSYMFile
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app.dSYM
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/ToDo Mobile.app.dSYM" "build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile"355747784#355747784#0(0"0(0#0#90"/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile8606054752#389"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile" -o "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app.dSYM"0#
+
+CLd "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile" normal i386
+s355747784.221889
+e355747784.324782
+r1
+xLd
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile
+xnormal
+xi386
+lSLF07#2@95"Link /Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile355747784#355747784#0(0"0(0#0#0"8604228320#1412"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator" "-F/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator" -filelist "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/ToDo Mobile.LinkFileList" -mmacosx-version-min=10.6 -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/fityp12/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGap.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/ToDo Mobile"0#
+
+CPhaseScriptExecution "Touch www folder" "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Script-304B58A110DAC018002A0835.sh"
+s355750469.309550
+e355750469.325187
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'355750469#355750469#0(0"0(0#0#0"8602807968#17945"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER fityp12    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/fityp12/Desktop/ToDo Mobile/build"    setenv BUILD_ROOT "/Users/fityp12/Desktop/ToDo Mobile/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH "ToDo Mobile.app"    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH "ToDo Mobile.app/English.lproj/Documentation"    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT "/tmp/ToDo Mobile.dst"    setenv DWARF_DSYM_FILE_NAME "ToDo Mobile.app.dSYM"    setenv DWARF_DSYM_FOLDER_PATH "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH "ToDo Mobile.app/Executables"    setenv EXECUTABLE_FOLDER_PATH "ToDo Mobile.app"    setenv EXECUTABLE_NAME "ToDo Mobile"    setenv EXECUTABLE_PATH "ToDo Mobile.app/ToDo Mobile"    setenv FILE_LIST "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH "ToDo Mobile.app/Frameworks"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME "ToDo Mobile.app"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER ToDo_Mobile-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE ToDo_Mobile-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH "ToDo Mobile.app/Info.plist"    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH "ToDo Mobile.app/English.lproj/InfoPlist.strings"    setenv INSTALL_DIR "/tmp/ToDo Mobile.dst/Applications"    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER fityp12    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT "/tmp/ToDo Mobile.dst"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH "ToDo Mobile.app/Java"    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal/i386/ToDo Mobile.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH "ToDo Mobile.app/English.lproj"    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Objects-normal"    setenv OBJROOT "/Users/fityp12/Desktop/ToDo Mobile/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH "ToDo Mobile.app/pbdevelopment.plist"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/fityp12/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/PkgInfo"    setenv PKGINFO_PATH "ToDo Mobile.app/PkgInfo"    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40300    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH "ToDo Mobile.app/PlugIns"    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH "ToDo Mobile.app/PrivateHeaders"    setenv PRODUCT_NAME "ToDo Mobile"    setenv PRODUCT_SETTINGS_PATH "/Users/fityp12/Desktop/ToDo Mobile/ToDo_Mobile-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT "ToDo Mobile"    setenv PROJECT_DERIVED_FILE_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/DerivedSources"    setenv PROJECT_DIR "/Users/fityp12/Desktop/ToDo Mobile"    setenv PROJECT_FILE_PATH "/Users/fityp12/Desktop/ToDo Mobile/ToDo Mobile.xcodeproj"    setenv PROJECT_NAME "ToDo Mobile"    setenv PROJECT_TEMP_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build"    setenv PUBLIC_HEADERS_FOLDER_PATH "ToDo Mobile.app/Headers"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH "ToDo Mobile.app/Scripts"    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_NAME iphonesimulator4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F192    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH "ToDo Mobile.app/SharedFrameworks"    setenv SHARED_PRECOMPS_DIR /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH "ToDo Mobile.app/SharedSupport"    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/fityp12/Desktop/ToDo Mobile"    setenv SRCROOT "/Users/fityp12/Desktop/ToDo Mobile"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/SymbolRepositories"    setenv SYMROOT "/Users/fityp12/Desktop/ToDo Mobile/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME "ToDo Mobile"    setenv TARGET_BUILD_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator"    setenv TARGET_NAME "ToDo Mobile"    setenv TARGET_TEMP_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build"    setenv TEMP_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build"    setenv TEMP_FILES_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build"    setenv TEMP_FILE_DIR "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build"    setenv TEMP_ROOT "/Users/fityp12/Desktop/ToDo Mobile/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH "ToDo Mobile.app"    setenv UNSTRIPPED_PRODUCT NO    setenv USER fityp12    setenv USER_APPS_DIR /Users/fityp12/Applications    setenv USER_HEADER_SEARCH_PATHS "\"/Users/fityp12/Documents/PhoneGapLib/Classes/JSON\" \"/Users/fityp12/Documents/PhoneGapLib/Classes\""    setenv USER_LIBRARY_DIR /Users/fityp12/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH "ToDo Mobile.app/version.plist"    setenv VERSION_INFO_BUILDER fityp12    setenv VERSION_INFO_FILE "ToDo Mobile_vers.c"    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:ToDo Mobile  PROJECT:ToDo Mobile-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME "ToDo Mobile.app"    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c "\"/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/Script-304B58A110DAC018002A0835.sh\""0#
+
+CProcessInfoPlistFile "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Info.plist" ToDo_Mobile-Info.plist
+s355748302.889400
+e355748302.906871
+r1
+xProcessInfoPlistFile
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Info.plist
+xToDo_Mobile-Info.plist
+lSLF07#2@30"Process ToDo_Mobile-Info.plist355748302#355748302#0(0"0(0#0#57"/Users/fityp12/Desktop/ToDo Mobile/ToDo_Mobile-Info.plist8607508800#485"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ToDo_Mobile-Info.plist -genpkginfo "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app/Info.plist"0#
+
+CProcessPCH /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo_Mobile-Prefix-giptejukywxxinahonqvlnsdgmmu/ToDo_Mobile-Prefix.pch.gch ToDo_Mobile-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s355747783.520868
+e355747784.118279
+r1
+xProcessPCH
+x/var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo_Mobile-Prefix-giptejukywxxinahonqvlnsdgmmu/ToDo_Mobile-Prefix.pch.gch
+xToDo_Mobile-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@33"Precompile ToDo_Mobile-Prefix.pch355747783#355747784#0(0"0(0#0#57"/Users/fityp12/Desktop/ToDo Mobile/ToDo_Mobile-Prefix.pch8604484288#1976"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-generated-files.hmap" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-own-target-headers.hmap" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-all-target-headers.hmap" -iquote "/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/ToDo Mobile-project-headers.hmap" "-F/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator" -iquote/Users/fityp12/Documents/PhoneGapLib/Classes/JSON -iquote/Users/fityp12/Documents/PhoneGapLib/Classes "-I/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/include" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources/i386" "-I/Users/fityp12/Desktop/ToDo Mobile/build/ToDo Mobile.build/Debug-iphonesimulator/ToDo Mobile.build/DerivedSources" -c "/Users/fityp12/Desktop/ToDo Mobile/ToDo_Mobile-Prefix.pch" -o /var/folders/3f/3fnAl95yFLG2QGvDGVB5Tk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo_Mobile-Prefix-giptejukywxxinahonqvlnsdgmmu/ToDo_Mobile-Prefix.pch.gch0#
+
+CTouch "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"
+s355749449.102594
+e355749449.105201
+r1
+xTouch
+x/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app
+lSLF07#2@84"Touch /Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app355749449#355749449#0(0"0(0#0#0"8609797728#278"    cd "/Users/fityp12/Desktop/ToDo Mobile"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/fityp12/Desktop/ToDo Mobile/build/Debug-iphonesimulator/ToDo Mobile.app"0#
+
