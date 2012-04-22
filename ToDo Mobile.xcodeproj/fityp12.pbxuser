@@ -1,0 +1,318 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ToDo Mobile */ = {
+		activeExec = 0;
+		executables = (
+			857B946E1534479D007A54A6 /* ToDo Mobile */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 857B946E1534479D007A54A6 /* ToDo Mobile */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ToDo Mobile */;
+		codeSenseManager = 857B94C8153447A2007A54A6 /* Code sense */;
+		executables = (
+			857B946E1534479D007A54A6 /* ToDo Mobile */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 356798588;
+			PBXWorkspaceStateSaveDate = 356798588;
+		};
+		perUserProjectItems = {
+			851A15BF1540648500060A97 /* PBXTextBookmark */ = 851A15BF1540648500060A97 /* PBXTextBookmark */;
+			851A15C11540648500060A97 /* PBXTextBookmark */ = 851A15C11540648500060A97 /* PBXTextBookmark */;
+			851A15C31540648500060A97 /* PBXTextBookmark */ = 851A15C31540648500060A97 /* PBXTextBookmark */;
+			851A15C51540648500060A97 /* PBXTextBookmark */ = 851A15C51540648500060A97 /* PBXTextBookmark */;
+			851A15C71540648500060A97 /* PBXTextBookmark */ = 851A15C71540648500060A97 /* PBXTextBookmark */;
+			851A15C91540648500060A97 /* PBXTextBookmark */ = 851A15C91540648500060A97 /* PBXTextBookmark */;
+			8555219D1544544800CC6006 /* PBXTextBookmark */ = 8555219D1544544800CC6006 /* PBXTextBookmark */;
+			8555219E1544544800CC6006 /* PBXBookmark */ = 8555219E1544544800CC6006 /* PBXBookmark */;
+			8555219F1544544800CC6006 /* PBXBookmark */ = 8555219F1544544800CC6006 /* PBXBookmark */;
+			855521A01544544800CC6006 /* PBXBookmark */ = 855521A01544544800CC6006 /* PBXBookmark */;
+			855521A11544544800CC6006 /* PBXBookmark */ = 855521A11544544800CC6006 /* PBXBookmark */;
+			855521A21544544800CC6006 /* PBXBookmark */ = 855521A21544544800CC6006 /* PBXBookmark */;
+			855521A31544544800CC6006 /* PBXBookmark */ = 855521A31544544800CC6006 /* PBXBookmark */;
+			855521A41544544800CC6006 /* PBXBookmark */ = 855521A41544544800CC6006 /* PBXBookmark */;
+			855521A51544544800CC6006 /* PlistBookmark */ = 855521A51544544800CC6006 /* PlistBookmark */;
+			855521A61544544800CC6006 /* PBXTextBookmark */ = 855521A61544544800CC6006 /* PBXTextBookmark */;
+			855521A81544544800CC6006 /* PBXTextBookmark */ = 855521A81544544800CC6006 /* PBXTextBookmark */;
+			85B89C1315344E6400DF6DBA /* PlistBookmark */ = 85B89C1315344E6400DF6DBA /* PlistBookmark */;
+		};
+		sourceControlManager = 857B94C7153447A2007A54A6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	851A15BF1540648500060A97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851A15C01540648500060A97 /* about.html */;
+		name = "about.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 0;
+	};
+	851A15C01540648500060A97 /* about.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = about.html;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile/www/about.html";
+		sourceTree = "<absolute>";
+	};
+	851A15C11540648500060A97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851A15C21540648500060A97 /* account.html */;
+		name = "account.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 876;
+		vrLoc = 0;
+	};
+	851A15C21540648500060A97 /* account.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = account.html;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile/www/account.html";
+		sourceTree = "<absolute>";
+	};
+	851A15C31540648500060A97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851A15C41540648500060A97 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 0;
+	};
+	851A15C41540648500060A97 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile/www/index.html";
+		sourceTree = "<absolute>";
+	};
+	851A15C51540648500060A97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851A15C61540648500060A97 /* new_project.html */;
+		name = "new_project.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 0;
+	};
+	851A15C61540648500060A97 /* new_project.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = new_project.html;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile/www/new_project.html";
+		sourceTree = "<absolute>";
+	};
+	851A15C71540648500060A97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851A15C81540648500060A97 /* project_splash.html */;
+		name = "project_splash.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	851A15C81540648500060A97 /* project_splash.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = project_splash.html;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile/www/project_splash.html";
+		sourceTree = "<absolute>";
+	};
+	851A15C91540648500060A97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851A15CA1540648500060A97 /* register.html */;
+		name = "register.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 0;
+	};
+	851A15CA1540648500060A97 /* register.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = register.html;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile/www/register.html";
+		sourceTree = "<absolute>";
+	};
+	851A15E41540649C00060A97 /* main.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = main.js;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile/www/js/main.js";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2336, 3458}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1064}";
+		};
+	};
+	8555219D1544544800CC6006 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851A15E41540649C00060A97 /* main.js */;
+		name = "main.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 0;
+	};
+	8555219E1544544800CC6006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D052E1370CCF300D202BF /* icon-72.png */;
+	};
+	8555219F1544544800CC6006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D052F1370CCF300D202BF /* icon.png */;
+	};
+	855521A01544544800CC6006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05301370CCF300D202BF /* icon@2x.png */;
+	};
+	855521A11544544800CC6006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05321370CCF300D202BF /* Default-Landscape.png */;
+	};
+	855521A21544544800CC6006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05331370CCF300D202BF /* Default-Portrait.png */;
+	};
+	855521A31544544800CC6006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05341370CCF300D202BF /* Default.png */;
+	};
+	855521A41544544800CC6006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 308D05351370CCF300D202BF /* Default@2x.png */;
+	};
+	855521A51544544800CC6006 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 30E1352610E2C1420031B30D /* PhoneGap.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			ExternalHosts,
+			0,
+		);
+		name = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile copy/PhoneGap.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	855521A61544544800CC6006 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 855521A71544544800CC6006 /* main.js */;
+		name = "main.js: 74";
+		rLen = 0;
+		rLoc = 2207;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 2026;
+	};
+	855521A71544544800CC6006 /* main.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = main.js;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile copy/www/js/main.js";
+		sourceTree = "<absolute>";
+	};
+	855521A81544544800CC6006 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 855521A91544544800CC6006 /* main.js */;
+		name = "main.js: 243";
+		rLen = 0;
+		rLoc = 6862;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 6695;
+	};
+	855521A91544544800CC6006 /* main.js */ = {
+		isa = PBXFileReference;
+		name = main.js;
+		path = "/Users/fityp12/Documents/Semester Two Projects/ToDo Mobile copy/www/js/main.js";
+		sourceTree = "<absolute>";
+	};
+	857B946E1534479D007A54A6 /* ToDo Mobile */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ToDo Mobile";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	857B94C7153447A2007A54A6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	857B94C8153447A2007A54A6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	85B89C1315344E6400DF6DBA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ToDo_Mobile-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fityp12/Desktop/ToDo Mobile/ToDo_Mobile-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
